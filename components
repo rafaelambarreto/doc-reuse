@@ -1,0 +1,19 @@
+# **Doc Reusable Content as Components** 
+
+Este arquivo contém uma curadoria das partes de conteúdo da documentação que se repetem e podem se transformar em componentes reutilizáveis divididos por assuntos: 
+
+
+## **Deploy** 
+
+
+:::caution Atenção! 
+Caso a sua Conta tenha sido criada **antes de 2024**, o deploy ainda pode ser feito via **Engine de Deploy da StackSpot EDP**. 
+
+Então, você precisa configurar sua Conta Cloud dentro do seu Workspace. Para ver como configurar cada provedor, acesse:
+
+- [**Configurar Conta Cloud AWS**](home/workspace/config-cloud-account.md);
+- [**Configurar Conta Cloud Azure**](home/workspace/config-cloud-account-azure.md);
+
+Para conferir informações sobre esse modelo de deploy, [**confira a seção StackSpot Deploy Engine**](deployment/runtime-engine/intro-runtime-engine.md). 
+::: 
+
