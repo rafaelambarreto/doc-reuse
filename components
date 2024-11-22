@@ -17,3 +17,25 @@ Então, você precisa configurar sua Conta Cloud dentro do seu Workspace. Para v
 Para conferir informações sobre esse modelo de deploy, [**confira a seção StackSpot Deploy Engine**](deployment/runtime-engine/intro-runtime-engine.md). 
 ::: 
 
+---
+:::caution
+If your Account was **created before 2024**, the deployment can still be done via the **StackSpot EDP Deploy Engine**. 
+
+So you need to to configure your Cloud Account within your Workspace. To see how to configure each provider, visit:
+
+- [**Configure AWS Cloud Account**](home/workspace/config-cloud-account.md);
+- [**Configure Azure Cloud Account**](home/workspace/config-cloud-account-azure.md);
+
+
+For information about this deployment model, [**check the StackSpot Deploy Engine section**](deployment/runtime-engine/intro-runtime-engine.md).
+
+:::
+
+## **SSO** 
+
+Single sign-on (SSO) é um mecanismo de autenticação que permite aos usuários acessar múltiplas aplicações com um único conjunto de detalhes de login. 
+
+--- 
+
+Single sign-on (SSO) is an authentication mechanism that enables users to access multiple applications with one set of login details.
+
